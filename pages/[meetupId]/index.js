@@ -3,7 +3,6 @@ import classes from './MeetupDetail.module.css'
 import Head from 'next/head'
 
 import { MongoClient, ObjectId } from 'mongodb'
-import Head from 'next/head'
 
 import MeetupDetail from '../../components/meetups/MeetupDetail'
 
